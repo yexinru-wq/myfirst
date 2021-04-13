@@ -4,4 +4,4 @@ to test something,to learn something
 ## Do you want to go to shopping?
 Please click here:https://uland.taobao.com/
 ## Do you want to see myone file?
-Please clcik here:
+Please clcik here:https://github.com/yexinru-wq/myfirst/blob/main/MYONE.md
